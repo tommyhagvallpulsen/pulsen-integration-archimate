@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="SmartCity" id="e5bf8279-be84-4deb-a2dc-c8b82a0def33" version="4.0.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="SmarterCityParking" id="e5bf8279-be84-4deb-a2dc-c8b82a0def33" version="4.0.1">
   <folder name="Strategy" id="0afdb216-1ee6-4bd4-ad64-56af97ad3594" type="strategy"/>
   <folder name="Business" id="acd4febc-8c33-40c0-89dd-f0f29854bb03" type="business">
     <element xsi:type="archimate:BusinessActor" name="Users" id="401b7365-b238-4eca-9b36-f2c8728b7532"/>
