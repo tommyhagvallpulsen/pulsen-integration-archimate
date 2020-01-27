@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D697-A9A4
+
+ Directory of C:\Data\gitstuff\test\pulsen-integration-archimate
+
+2020-01-27  09:49    <DIR>          .
+2020-01-27  09:49    <DIR>          ..
+2020-01-27  09:48    <DIR>          archis
+2020-01-27  09:48                63 README.md
+2020-01-27  09:49                 0 test.fil.txt
+               2 File(s)             63 bytes
+               3 Dir(s)  362ÿ510ÿ286ÿ848 bytes free
